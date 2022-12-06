@@ -1,3 +1,5 @@
 # mavzutasks
+mevzu app için verilen task. 
+App te bulunan card ı sağ ve sol kaydırma özelliği yaparak red ve onay özelliği ekledim.
 
-proyi yaparken önemli kısmı benim için swipe kısmını yapabilmekti. bir çok npm paketi vardı ama ben bu tarz yapmak istedim. tam isterinizi karşılamıyor olabilir ama benim için öğretici ve keyifli bir süreçti. tüm mevzu ekibine çok teşekkür eder, sağlıklı günler dilerim
+projeyi yaparken önemli kısmı benim için swipe kısmını yapabilmekti. Bir çok npm paketi vardı ama ben bu tarz yapmak istedim.
